@@ -1,1 +1,1 @@
-# Asteroid Game
+# Asteroids Game
